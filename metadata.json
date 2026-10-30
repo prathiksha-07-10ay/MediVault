@@ -1,0 +1,6 @@
+{
+  "name": "MediVault",
+  "description": "Smart Inventory. Safer Medicine. Countertop MediVault Station and mobile offline-first inventory management for pharmacies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
